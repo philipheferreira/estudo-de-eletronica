@@ -651,7 +651,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 138.4301 52.07 0)
 			(effects
 				(font
@@ -721,7 +721,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery"
+		(property "Value" "9V"
 			(at 128.27 60.3884 0)
 			(effects
 				(font

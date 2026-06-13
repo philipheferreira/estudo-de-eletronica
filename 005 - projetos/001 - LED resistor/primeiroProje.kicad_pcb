@@ -300,7 +300,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 7.62 2.37 0)
 			(layer "F.Fab")
 			(uuid "42b5c3df-7a98-47b6-af6b-122d4dc13d9b")
@@ -474,7 +474,7 @@
 				)
 			)
 		)
-		(property "Value" "Battery"
+		(property "Value" "9V"
 			(at 22 0 0)
 			(layer "F.Fab")
 			(uuid "10c127b3-bd9d-42e9-acf9-43d627c1537d")
